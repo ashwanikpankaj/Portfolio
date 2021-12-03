@@ -185,9 +185,8 @@ h1, h2, h3, h4, h5, h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  /* background: url("../img/hero-bg1.jpg") top center; */
-  background-color: #EBECED;
-  /* background-size: cover; */
+  background: url("../img/portfolio/Ashwani_bg.jpg") top center;
+  background-size: cover;
 }
 #hero:before {
   content: "";
@@ -209,10 +208,10 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 64px;
   font-weight: 700;
   line-height: 56px;
-  color:#041F60;
+  color: #212431;
 }
 #hero p {
-  color:#149ddd;
+  color: #149ddd;
   margin-bottom: 50px;
   font-size: 26px;
   font-family: "Poppins", sans-serif;
